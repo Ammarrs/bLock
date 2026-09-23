@@ -1,0 +1,27 @@
+.fs-custom {
+  font-size: 8rem;
+}
+
+.mt-custom {
+  margin-top: 200px;
+}
+
+.bg-color {
+  background-color: #0F172A;
+}
+
+.text-color {
+  color: #38BDF8;
+}
+
+.label {
+  width: 7%;
+  height: 3.5rem;
+  background-color: #38BDF8;
+  color: #0F172A;
+
+}
+
+a:hover {
+  color: #38bff8b8;
+}
