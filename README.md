@@ -6,3 +6,6 @@ a compination of productivity apps , HTML, CSS, JS
 - make weather
 - make planner
 - make pomodoro
+- make currency exchanger
+- make translator
+- make meme getter
